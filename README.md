@@ -1,4 +1,4 @@
-   This is a personal NextJS auth: sign-up, sign-in, saving tokens on the server side with middlewares, email verification and reset(email and password) 
+   This is a personal NextJS auth project: sign-up, sign-in, saving tokens on the server side with middlewares, email verification and reset(email and password) 
 
    ### Technologies: 
 
